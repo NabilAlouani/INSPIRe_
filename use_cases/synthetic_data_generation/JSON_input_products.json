@@ -1,0 +1,252 @@
+[
+    {
+        "brand": "NebulaTech",
+        "product": "Nebula VR Headset Pro",
+        "description": "A high-end VR headset for immersive experiences."
+    },
+    {
+        "brand": "NebulaTech",
+        "product": "Nebula Phone X1",
+        "description": "A flagship smartphone with cutting-edge features."
+    },
+    {
+        "brand": "NebulaTech",
+        "product": "Nebula Gaming Headset",
+        "description": "A headset designed for gamers with superior sound quality."
+    },
+    {
+        "brand": "NebulaTech",
+        "product": "Nebula Precision Mouse",
+        "description": "A mouse engineered for accuracy and performance."
+    },
+    {
+        "brand": "NebulaTech",
+        "product": "Nebula Ergo Keyboard",
+        "description": "An ergonomic keyboard for comfort and productivity."
+    },
+    {
+        "brand": "AstraGear",
+        "product": "Astra VR Glasses 2.0",
+        "description": "Sleek and comfortable VR glasses for extended wear."
+    },
+    {
+        "brand": "AstraGear",
+        "product": "Astra Phone D2",
+        "description": "A durable and reliable smartphone for everyday use."
+    },
+    {
+        "brand": "AstraGear",
+        "product": "Astra Sound Headset",
+        "description": "A versatile headset offering crystal-clear audio."
+    },
+    {
+        "brand": "AstraGear",
+        "product": "Astra Glide Mouse",
+        "description": "A smooth and responsive mouse for both gaming and professional use."
+    },
+    {
+        "brand": "AstraGear",
+        "product": "Astra Slim Keyboard",
+        "description": "A sleek and portable keyboard for users on the go."
+    },
+    {
+        "brand": "OrionWares",
+        "product": "Orion VR Ultimate",
+        "description": "The ultimate VR experience with unparalleled visuals and tracking."
+    },
+    {
+        "brand": "OrionWares",
+        "product": "Orion Phone Z",
+        "description": "A stylish smartphone with a focus on performance and camera quality."
+    },
+    {
+        "brand": "OrionWares",
+        "product": "Orion Surround Headset",
+        "description": "A headset offering immersive audio with surround sound."
+    },
+    {
+        "brand": "OrionWares",
+        "product": "Orion Speed Mouse",
+        "description": "A fast and lightweight mouse for competitive gaming."
+    },
+    {
+        "brand": "OrionWares",
+        "product": "Orion Mecha Keyboard",
+        "description": "A durable mechanical keyboard with tactile feedback."
+    },
+    {
+        "brand": "ZephyrTech",
+        "product": "Zephyr VR Lite",
+        "description": "A lightweight and affordable VR headset for beginners."
+    },
+    {
+        "brand": "ZephyrTech",
+        "product": "Zephyr Phone Ultra",
+        "description": "An ultra-thin smartphone with premium features."
+    },
+    {
+        "brand": "ZephyrTech",
+        "product": "Zephyr NC Headset",
+        "description": "A noise-cancelling headset for clear audio in any environment."
+    },
+    {
+        "brand": "ZephyrTech",
+        "product": "Zephyr Gamer Mouse",
+        "description": "A mouse designed for hardcore gamers with customizable buttons."
+    },
+    {
+        "brand": "ZephyrTech",
+        "product": "Zephyr Compact Keyboard",
+        "description": "A space-saving keyboard with full functionality."
+    },
+    {
+        "brand": "VortexElectronics",
+        "product": "Vortex VR Premium",
+        "description": "A premium VR headset with exclusive content access."
+    },
+    {
+        "brand": "VortexElectronics",
+        "product": "Vortex Phone Max",
+        "description": "A large-screen smartphone for multimedia consumption."
+    },
+    {
+        "brand": "VortexElectronics",
+        "product": "Vortex Studio Headset",
+        "description": "A professional-grade headset for music and gaming."
+    },
+    {
+        "brand": "VortexElectronics",
+        "product": "Vortex Gaming Mouse",
+        "description": "A high-precision mouse tailored for gamers."
+    },
+    {
+        "brand": "VortexElectronics",
+        "product": "Vortex Ergo Keyboard",
+        "description": "An ergonomic keyboard designed for long gaming sessions."
+    },
+    {
+        "brand": "QuantumDevices",
+        "product": "Quantum VR Eye",
+        "description": "A VR headset with eye-tracking technology for interactive experiences."
+    },
+    {
+        "brand": "QuantumDevices",
+        "product": "Quantum Phone AI",
+        "description": "A smartphone with advanced AI capabilities for smart assistance."
+    },
+    {
+        "brand": "QuantumDevices",
+        "product": "Quantum BT Headset",
+        "description": "A wireless Bluetooth headset for freedom of movement."
+    },
+    {
+        "brand": "QuantumDevices",
+        "product": "Quantum Vertical Mouse",
+        "description": "An ergonomically designed mouse to reduce wrist strain."
+    },
+    {
+        "brand": "QuantumDevices",
+        "product": "Quantum Backlit Keyboard",
+        "description": "A keyboard with backlit keys for late-night sessions."
+    },
+    {
+        "brand": "EchoInnovations",
+        "product": "Echo VR Pro",
+        "description": "A professional-grade VR headset for developers and enthusiasts."
+    },
+    {
+        "brand": "EchoInnovations",
+        "product": "Echo Secure Phone",
+        "description": "A smartphone with enhanced security features for privacy-conscious users."
+    },
+    {
+        "brand": "EchoInnovations",
+        "product": "Echo Dynamic Headset",
+        "description": "A versatile headset with dynamic sound adjustment."
+    },
+    {
+        "brand": "EchoInnovations",
+        "product": "Echo Clicky Mouse",
+        "description": "A mouse with satisfying click feedback for productivity."
+    },
+    {
+        "brand": "EchoInnovations",
+        "product": "Echo Wireless Keyboard",
+        "description": "A convenient wireless keyboard for a clutter-free desk."
+    },
+    {
+        "brand": "LuminTech",
+        "product": "Lumin VR 4K",
+        "description": "A 4K VR headset for lifelike visuals."
+    },
+    {
+        "brand": "LuminTech",
+        "product": "Lumin Eco Phone",
+        "description": "An environmentally friendly smartphone with sustainable materials."
+    },
+    {
+        "brand": "LuminTech",
+        "product": "Lumin Waterproof Headset",
+        "description": "A durable headset that's perfect for outdoor adventures."
+    },
+    {
+        "brand": "LuminTech",
+        "product": "Lumin Flashy Mouse",
+        "description": "A stylish mouse with customizable LED lighting."
+    },
+    {
+        "brand": "LuminTech",
+        "product": "Lumin Comfy Keyboard",
+        "description": "A keyboard designed for comfort with soft-touch keys."
+    },
+    {
+        "brand": "TerraTech",
+        "product": "Terra VR Outdoor",
+        "description": "A rugged VR headset designed for outdoor use."
+    },
+    {
+        "brand": "TerraTech",
+        "product": "Terra Phone S",
+        "description": "A smartphone with superior durability and outdoor functionality."
+    },
+    {
+        "brand": "TerraTech",
+        "product": "Terra Ambient Headset",
+        "description": "A headset with ambient sound for safe outdoor listening."
+    },
+    {
+        "brand": "TerraTech",
+        "product": "Terra Precision Mouse",
+        "description": "A mouse designed for precision in design and gaming."
+    },
+    {
+        "brand": "TerraTech",
+        "product": "Terra Weatherproof Keyboard",
+        "description": "A durable keyboard resistant to water and dust."
+    },
+    {
+        "brand": "SkylineElectronics",
+        "product": "Skyline VR Panorama",
+        "description": "A VR headset offering panoramic views for immersive experiences."
+    },
+    {
+        "brand": "SkylineElectronics",
+        "product": "Skyline Alpha Phone",
+        "description": "A high-end smartphone with alpha-grade performance."
+    },
+    {
+        "brand": "SkylineElectronics",
+        "product": "Skyline Bass Headset",
+        "description": "A headset with deep bass for music lovers."
+    },
+    {
+        "brand": "SkylineElectronics",
+        "product": "Skyline Gaming Mouse",
+        "description": "A gaming mouse with high DPI settings and ergonomic design."
+    },
+    {
+        "brand": "SkylineElectronics",
+        "product": "Skyline Dev Keyboard",
+        "description": "A keyboard with programmable keys for developers."
+    }
+]
